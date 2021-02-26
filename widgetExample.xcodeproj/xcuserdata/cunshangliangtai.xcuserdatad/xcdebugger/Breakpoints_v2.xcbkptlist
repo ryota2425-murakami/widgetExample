@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1A44CABA-42EF-4B57-B27B-78FADCBBA545"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50D5A374-6F8C-4B14-8BCB-6E7AE2A816A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "widgetExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "50D5A374-6F8C-4B14-8BCB-6E7AE2A816A0 - a70398a34f19dd43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "widgetExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "widgetExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cunshangliangtai/busdes/widgetExample/widgetExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "267">
+               </Location>
+               <Location
+                  uuid = "50D5A374-6F8C-4B14-8BCB-6E7AE2A816A0 - de87974a948dc89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (widgetExample.Welcome) -&gt; () in widgetExample.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "widgetExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cunshangliangtai/busdes/widgetExample/widgetExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

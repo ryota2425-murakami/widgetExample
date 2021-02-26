@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  widgetExample
 //
-//  Created by 村上諒太 on 2021/02/26.
+//  Created by ryota on 2021/02/26.
 //
 
 import UIKit

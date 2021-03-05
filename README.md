@@ -1,10 +1,13 @@
 # widgetExample
 
-今回は[NewsAPI](https://newsapi.org/)からJSONで技術系のニュースデータを取得してその１つめのデータをWidgetに追加するようにします。
+### [NewsAPI](https://newsapi.org/)からJSONで技術系のニュースデータを取得してその１つめのデータをWidgetに表示するサンプルプログラム。  
+
+
 ![Simulator Screen Shot - iPod touch (7th generation) - 2021-02-26 at 17.47.27.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/187470/3e353487-1f83-dcb8-ad65-9e5c51ffde9e.png)
 
+---
 
-まずはニュースを取得するためにNewsAPIを利用するのでそのAPIKeyを取得します。News系のAPIで探してみるとこれが多く使われてるみたいです。APIKeyを取得したら以下のようにGETするとレスポンスがかえってきます。
+ニュースを取得するためにNewsAPIを利用するのでそのAPIKeyを取得します。News系のAPIで探してみるとこれが多く使われてるみたいです。APIKeyを取得したら以下のようにGETするとレスポンスがかえってきます。
 
 ```
 http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=APIキー
